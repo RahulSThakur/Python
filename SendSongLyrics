@@ -1,5 +1,6 @@
 # code to send song lyrics to your friends
 
+#Import relevant modules
 import time
 import pyautogui
 
