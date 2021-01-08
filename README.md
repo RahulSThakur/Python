@@ -1,4 +1,4 @@
-## Send text to your friends
+## Automate text messaging
 
  This code is an exampe to prank your friends and send them song lyrics.
 
